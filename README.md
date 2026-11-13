@@ -27,4 +27,3 @@ O driver JDBC já está na pasta `lib/`. Com a conexão configurada, o programa 
 | Configuração do Supabase e solução de erros | [docs/COMO_EXECUTAR.md](docs/COMO_EXECUTAR.md) |
 | Diagramas da implementação | [docs/DIAGRAMAS.md](docs/DIAGRAMAS.md) |
 | Testes | [docs/TESTES.md](docs/TESTES.md) |
-| Requisitos da AEP e roteiro de apresentação | [Checklist](docs/CHECKLIST_ENTREGA.md) · [Roteiro](docs/ROTEIRO_APRESENTACAO.md) |
